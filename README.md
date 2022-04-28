@@ -1,2 +1,2 @@
-# Digital_Design_using_virtual_FPGA
+#  Digital Filters and FFT using Spartan 3E FPGA 
 
